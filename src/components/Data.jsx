@@ -1,0 +1,32 @@
+export const userList = [
+  {
+    name: "rohit Kumar",
+    email: "rohit@email.com",
+    contactNumber: "1234567890",
+    alternateNumber: "0987654321",
+    registeredOn: "2024-04-16",
+    status: "Active",
+    bookingHistory: "History 1",
+    id: 1,
+  },
+  {
+    name: "rohit",
+    email: "b@email.com",
+    contactNumber: "1234567890",
+    alternateNumber: "0987654321",
+    registeredOn: "2024-04-16",
+    status: "Inactive",
+    bookingHistory: "History 3",
+    id: 2,
+  },
+  {
+    name: "Kumar",
+    email: "a@email.com",
+    contactNumber: "1234567890",
+    alternateNumber: "0987654321",
+    registeredOn: "2024-04-16",
+    status: "Active",
+    bookingHistory: "History 4",
+    id: 3,
+  },
+];
