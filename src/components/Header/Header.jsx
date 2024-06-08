@@ -20,7 +20,7 @@ function AddUser() {
   return (
     <div>
       <div>
-        <h2>RIDE EEVE ASSIGNMENT FRONTEND</h2>
+        <h2>RIDE EEVE FRONTEND ASSIGNMENT</h2>
       </div>
       <div>
         <div className="header-class">
